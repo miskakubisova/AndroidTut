@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">FirstProject</string>
     <string name="second_name">Second Activity</string>
+    <string name="backButton">Go Back</string>
 </resources>
