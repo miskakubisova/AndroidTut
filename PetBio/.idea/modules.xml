@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PetBio.iml" filepath="$PROJECT_DIR$/PetBio.iml" />
+      <module fileurl="file://C:\Users\michaela.kubisova\Miska\Personal\github\AndroidTut\PetBio\PetBio.iml" filepath="C:\Users\michaela.kubisova\Miska\Personal\github\AndroidTut\PetBio\PetBio.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\michaela.kubisova\Miska\Personal\github\AndroidTut\PetBio\app\app.iml" filepath="C:\Users\michaela.kubisova\Miska\Personal\github\AndroidTut\PetBio\app\app.iml" />
     </modules>
   </component>
 </project>
