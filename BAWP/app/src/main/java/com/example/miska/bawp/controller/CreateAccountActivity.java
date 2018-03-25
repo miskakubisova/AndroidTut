@@ -1,7 +1,9 @@
-package com.example.miska.bawp;
+package com.example.miska.bawp.controller;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.miska.bawp.R;
 
 public class CreateAccountActivity extends AppCompatActivity {
 
